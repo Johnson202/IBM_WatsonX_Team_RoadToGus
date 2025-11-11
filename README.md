@@ -1,4 +1,4 @@
-# IBM_WatsonX_Team_RoadToGus
+# IBM WatsonX - Team RoadToGus
 
 ## Overview
 IBM Granite-3.1-8B-Instruct model was chosen for optimal outputs in the personal finance domain (based on available foundational models, in terms of cost vs. risk).
