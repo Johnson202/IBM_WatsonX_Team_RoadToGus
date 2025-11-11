@@ -8,7 +8,7 @@ Mistral Medium 3 model scored the highest on the basis of the FinQA metric, at 4
 1. Personal_Finance_Dataset(.csv/.txt): https://www.kaggle.com/datasets/ramyapintchy/personal-finance-data
 2. Budget(.csv/.txt): https://www.kaggle.com/datasets/bukolafatunde/personal-finance
 3. fine-tuning data.json:
-   a) https://www.protective.com/learn/personal-finance-faqs
-   b) https://www.investopedia.com/personal-finance-4427760
-   c) https://www.fidfedsl.com/blog/financial-literacy-faq-your-top-questions-answered/ 
-   d) https://digitaldefynd.com/IQ/personal-finance-faqs/
+- https://www.protective.com/learn/personal-finance-faqs
+- https://www.investopedia.com/personal-finance-4427760
+- https://www.fidfedsl.com/blog/financial-literacy-faq-your-top-questions-answered/
+- https://digitaldefynd.com/IQ/personal-finance-faqs/
