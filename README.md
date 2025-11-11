@@ -6,7 +6,7 @@ Mistral Medium 3 model scored the highest on the basis of the FinQA metric, at 4
 ![Foundational Models Ranked](https://github.com/Johnson202/IBM_WatsonX_Team_RoadToGus/blob/main/images/foundational_models_ranked.png)
 
 
-##Dataset Sources
+## Dataset Sources
 1. Personal_Finance_Dataset(.csv/.txt): https://www.kaggle.com/datasets/ramyapintchy/personal-finance-data
 2. Budget(.csv/.txt): https://www.kaggle.com/datasets/bukolafatunde/personal-finance
 3. fine-tuning data.json:
